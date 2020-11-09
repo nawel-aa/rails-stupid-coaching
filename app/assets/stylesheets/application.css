@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+
+ html {
+   font-size: 62.5%;
+ }
+
+ body {
+   font-family: 'Raleway', sans-serif;
+   font-size: 1.6rem;
+ }
+
+ .container {
+  max-width: 100rem;
+  margin: 0 auto;
+  padding: 5rem 2rem;
+}
+
+a {
+  color: #000;
+}
